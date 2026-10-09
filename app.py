@@ -1,4 +1,3 @@
-can i add some creds now
 import logging
 import os
 import pickle
