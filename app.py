@@ -11,9 +11,9 @@ load_dotenv(os.path.join(base, ".env"))
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 student_record = os.getenv("STUDENTS_RECORD_FILE")
 
-
+hjfdjhdfhjdfhjfjhhjkfhjkdfkhjdskhjdfskhj
 def b_read():
-    # Opening a file & loading it
+    # Opening a file & loading itffhfhfhfhrf
     if not os.path.exists(student_record):
         logging.warning("File not found")
         return
